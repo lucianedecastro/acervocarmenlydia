@@ -1,8 +1,8 @@
-# Repositório "Carmen Lydia" da Mulher Brasileira no Esporte 
+# Acervo "Carmen Lydia" da Mulher Brasileira no Esporte 
 
 ## Sobre o Projeto
 
-O Repositório "Carmen Lydia" da Mulher Brasileira no Esporte é um projeto digital dedicado a preservar, divulgar e visibilizar a história e as conquistas das atletas brasileiras, muitas vezes esquecidas ou marginalizadas. É um banco de dados para consulta com informações sobre as mulheres do esporte brasileiro com recorte em 1900.
+O Acervo "Carmen Lydia" da Mulher Brasileira no Esporte é um projeto digital dedicado a preservar, divulgar e visibilizar a história e as conquistas das atletas brasileiras, muitas vezes esquecidas ou marginalizadas. É um banco de dados para consulta com informações sobre as mulheres do esporte brasileiro com recorte em 1900.
 
 A ideia do projeto nasceu em 2020, durante o período de isolamento social imposto pela pandemia da COVID-19. Com a paralisação das atividades presenciais de curadoria de exposições e outras atividades na área do esporte que eu realizava com o Sesc SP, mergulhei na pesquisa da hemeroteca digital da Biblioteca Nacional, onde encontrei histórias incríveis de mulheres que desafiaram as convenções e brilharam no esporte desde o início do século XX.
 
@@ -10,7 +10,7 @@ Percebendo o quanto as exposições físicas limitam o acesso a essas histórias
 
 ## Homenagem a Carmen Lydia
 
-O nome do Repositório é uma homenagem a Carmen Lydia, uma das nossas pioneiras no esporte, cuja trajetória esportiva se deu nos inícios dos anos 1910 de maneira muito preciosa.
+O nome do Acervo é uma homenagem a Carmen Lydia, uma das nossas pioneiras no esporte, cuja trajetória esportiva se deu nos inícios dos anos 1910 de maneira muito preciosa.
 
 Para saber mais sobre a história de Carmen Lydia, você pode ler o artigo que publiquei no Portal Ludopédio:
 
@@ -33,7 +33,7 @@ Para saber mais sobre a história de Carmen Lydia, você pode ler o artigo que p
 
 ## Como Contribuir
 
-O Repositório "Carmen Lydia" é um projeto aberto e colaborativo. Sua contribuição é muito bem-vinda!
+O Acervo "Carmen Lydia" é um projeto aberto e colaborativo. Sua contribuição é muito bem-vinda!
 
 Você pode contribuir:
 
