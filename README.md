@@ -16,6 +16,13 @@ Para saber mais sobre a história de Carmen Lydia, você pode ler o artigo que p
 
 [Carmen Lydia: A Pioneira do Esporte Feminino Brasileiro](https://ludopedio.org.br/arquibancada/carmen-lydia/?srsltid=AfmBOopVxW5nOTUPmm9qdlY5Swlm78vLUoZXh-TF-mGnmMOBD3sp2XDW)
 
+<p align="center">
+  <img src="https://ludopedio.org.br/wp-content/uploads/Recorte-Carmen-Lydia-nO-Tico-Tico-1915_foto.jpg" width="300">
+  <br>
+  <em>Carmen Lydia na Revista Tico-Tico - 1915</em>
+</p>
+
+
 ## Objetivos
 
 *   Preservar a memória do esporte feminino brasileiro.
